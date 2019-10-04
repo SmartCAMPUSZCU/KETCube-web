@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+title: [KETCube]
+description: [Universal Prototyping and Educational IoT Platform]
+show_downloads: true
+github:
+  zip_url: https://github.com/SmartCAMPUSZCU/KETCube-fw/archive/v0.1.1.zip
