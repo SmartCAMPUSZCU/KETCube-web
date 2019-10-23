@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# The KETCube Project
 
-You can use the [editor on GitHub](https://github.com/SmartCAMPUSZCU/KETCube-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+KETCube is the prototyping and demo platform developed by the SmartCAMPUS team at the Department of Technologies and Measurement (KET), University of West Bohemia in Pilsen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The general information about the KETCube platform can be found in [KETCube datasheet](https://github.com/SmartCAMPUSZCU/KETCube-docs/KETCubeDatasheet.pdf)
 
-### Markdown
+More detailed info related to KETCube can be found in [Application Notes](https://github.com/SmartCAMPUSZCU/KETCube-docs/appNotes/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![KETCube platform](ketCube_all_photo_webQ.jpg)
 
-```markdown
-Syntax highlighted code block
+## KETCube Components
 
-# Header 1
-## Header 2
-### Header 3
+* [KETCube fw](https://github.com/SmartCAMPUSZCU/KETCube-fw)
+* [KETCube docs](https://github.com/SmartCAMPUSZCU/KETCube-docs)
+* [KETCube tools](https://github.com/SmartCAMPUSZCU/KETCube-tools)
+* [KETCube box](https://github.com/SmartCAMPUSZCU/KETCube-box)
 
-- Bulleted
-- List
+* [KETCube mainBoard](https://github.com/SmartCAMPUSZCU/KETCube-mainBoard)
+* [KETCube batBoard](https://github.com/SmartCAMPUSZCU/KETCube-batBoard)
 
-1. Numbered
-2. List
+## Contribute
 
-**Bold** and _Italic_ and `Code` text
+* Develop KETCube extension board and/or extend the [KETCube firmware](https://github.com/SmartCAMPUSZCU/KETCube-fw)
+* Write [Application Note](https://github.com/SmartCAMPUSZCU/KETCube-docs/appNotes/)
+* Report a bug or suggest new feature (please use respective repositories)
 
-[Link](url) and ![Image](src)
-```
+* Use KETCube and share your experience on [Facebook](https://www.facebook.com/smartcampuszcu), [Instagram](https://www.instagram.com/smartcampuszcu/) or [Twitter](https://twitter.com/SmartCAMPUSZCU)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## License
 
-### Jekyll Themes
+KETCube is distributed under the MIT-like University of Illinois/NCSA Open Source License. 
+See also [LICENSE](LICENSE.md).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmartCAMPUSZCU/KETCube-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Publications
 
-### Support or Contact
+If you use KETCube for your research, please include the following paper to the resource/citation list:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* J. Belohoubek, J. Cengery, J. Freisleben, P. Kašpar and A. Hamáček, ["KETCube – The Universal Prototyping IoT Platform,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8491808&isnumber=8491778) 2018 21st Euromicro Conference on Digital System Design (DSD), Prague, Czech Republic, 2018, pp. 148-154.
+doi: 10.1109/DSD.2018.00037
